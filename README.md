@@ -1,2 +1,2 @@
 # Cokonet
-This folder will have Projects related to Python.
+This folder will have Projects / Assignments.
